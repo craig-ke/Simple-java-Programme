@@ -1,4 +1,4 @@
-# Simple Java Programme
+# Simple Java Programme<Intagers>
 This programme triggers users to input numbers and any number more that 10 youre prompted MORE and any less tha 10 youre propmted less.
 ## Setup Instructions
 1. Clone this repository wit a compatible java programme.
